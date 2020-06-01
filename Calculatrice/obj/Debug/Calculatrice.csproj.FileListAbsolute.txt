@@ -1,0 +1,19 @@
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\flo-l\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Loriane\Travail\Travail IPI\Master\CSharp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache

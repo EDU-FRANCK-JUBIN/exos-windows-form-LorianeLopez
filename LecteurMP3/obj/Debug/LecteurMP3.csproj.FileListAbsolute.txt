@@ -1,0 +1,15 @@
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\bin\Debug\LecteurMP3.exe.config
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\bin\Debug\LecteurMP3.exe
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\bin\Debug\LecteurMP3.pdb
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\bin\Debug\Interop.WMPLib.dll
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\bin\Debug\AxInterop.WMPLib.dll
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.csprojAssemblyReference.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\Interop.WMPLib.dll
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\AxInterop.WMPLib.dll
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.csproj.ResolveComReference.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.Form1.resources
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.Properties.Resources.resources
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.csproj.GenerateResource.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.csproj.CoreCompileInputs.cache
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.exe
+D:\Loriane\Travail\Travail IPI\Master\CSharp\LecteurMP3\LecteurMP3\obj\Debug\LecteurMP3.pdb
